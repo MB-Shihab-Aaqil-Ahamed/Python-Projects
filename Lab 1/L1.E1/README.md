@@ -4,7 +4,13 @@ This is a Python program that computes the roots of a quadratic equation given i
 
 ## Usage
 
-To use this program, simply run it in a Python environment and enter values for `a`, `b`, and `c` when prompted. The program will then calculate the roots of the quadratic equation and print them to the console.
+To use this program, follow the steps below:
+
+- Open the Python environment of your choice.
+- Copy the code into the Python environment.
+- Run the program.
+- Enter values for `a`, `b`, and `c` when prompted.
+- The program will calculate the roots of the quadratic equation and print them to the console.
 
 For example, if you enter `a=1`, `b=5`, and `c=6`, the program will output:
 
