@@ -1,10 +1,9 @@
 # L2.E2 - Day of the Week Calculator
 
-## Program to find the day of the week for a given date
-# Formula used: https://en.wikipedia.org/wiki/Determination_of_the_day_of_the_week#Implementation-dependent_methods
+Program to find the day of the week for a given date
+Formula used: https://en.wikipedia.org/wiki/Determination_of_the_day_of_the_week#Implementation-dependent_methods
 
-
-# Program to find the day of the week for a given date
+Program to find the day of the week for a given date
 
 This program reads a date in the format yyyy mm dd and calculates the corresponding day of the week using the formula specified in https://en.wikipedia.org/wiki/Determination_of_the_day_of_the_week#Implementation-dependent_methods.
 
