@@ -6,11 +6,11 @@ This is a Python program that computes the roots of a quadratic equation given i
 
 To use this program, follow the steps below:
 
-- Open the Python environment of your choice.
-- Copy the code into the Python environment.
-- Run the program.
-- Enter values for `a`, `b`, and `c` when prompted.
-- The program will calculate the roots of the quadratic equation and print them to the console.
+1. Open the Python environment of your choice.
+2. Copy the code into the Python environment.
+3. Run the program.
+4. Enter values for `a`, `b`, and `c` when prompted.
+5. The program will calculate the roots of the quadratic equation and print them to the console.
 
 For example, if you enter `a=1`, `b=5`, and `c=6`, the program will output:
 
