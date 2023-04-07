@@ -5,7 +5,7 @@ This program reads a matrix with any dimension from the keyboard until -1 is ent
 The program handles exceptions such as checking the invalid rows with an inconsistent number of elements. It prints Invalid Matrix as the error message for invalid rows and breaks out of the program. If any other exceptions are caught, it prints Error and exits the program.
 
 Here is the Python code for the program:
-'''python 
+```python
 # create an empty 2D list to store the matrix
 matrix = []
 
@@ -38,7 +38,7 @@ if valid:
             print(*row)
     except:
         print("Error")
-  '''
+```
   
 To use this program, simply run it in a Python environment, and enter the matrix elements row by row. Separate the elements in each row with spaces, and enter -1 on a separate line to stop entering the matrix.
 
