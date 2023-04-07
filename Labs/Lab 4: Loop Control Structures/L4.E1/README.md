@@ -37,5 +37,6 @@ while True:
             print("prime")
         else:
             print("non-prime")
+```
 
 In the above code, we take the input from the user in a loop until the user enters a negative integer. If the user enters a negative integer, we break out of the loop. If the user enters 1, we print "non-prime" since 1 is not considered a prime number. If the user enters any other positive integer, we use a loop to check if it is a prime number. If it is a prime number, we print "prime", otherwise we print "non-prime".
